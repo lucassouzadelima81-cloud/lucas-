@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    position: relative;
+    height: 200vh;
+}
+
+i {
+    font-size: 100px;
+    color: green;
+}
+
+.wpp {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+}
